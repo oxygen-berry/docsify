@@ -2,7 +2,7 @@
 - Team introduce
 - Daily homework
   - [1. PM]()
-    - [how to build web](class/1pm/1pm-web.md)
+    - [how to build web](class/1pm/pm-web1.md)
     - introduce team
     - introduce finial project
   - [2. arduino basic]()
